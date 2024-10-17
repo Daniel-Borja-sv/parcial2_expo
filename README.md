@@ -1,1 +1,2 @@
-# parcial2_expo
+Integrante:
+Daniel Antonio Borja Pereira, SMSS014124
